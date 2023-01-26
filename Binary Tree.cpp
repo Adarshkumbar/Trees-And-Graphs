@@ -19,15 +19,12 @@ struct node * create()
 	newnode->data=x;
 	cout<<"\nEnter Left Node :";
 		newnode->left=create();
-		cout<<"\tData:"<<newnode->data;
 	cout<<"\nEnter Right Node :";
 		newnode->right=create();
-		cout<<"\tData:"<<newnode->data;	
 }
 int main()
 {
 	struct node *root;
 	root=NULL;
 	root=create();
-//	display(root);
 }
