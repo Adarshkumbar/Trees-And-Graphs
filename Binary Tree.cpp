@@ -19,29 +19,12 @@ struct node * create()
 	newnode->data=x;
 	cout<<"\nEnter Left Node :";
 		newnode->left=create();
-		cout<<"\tData:"<<newnode->data;
 	cout<<"\nEnter Right Node :";
 		newnode->right=create();
-		cout<<"\tData:"<<newnode->data;	
 }
-//void display(struct node *root)
-//{
-//	struct node *temp1,*temp2;
-//	temp1=temp2=root;
-//	if(root== NULL)
-//		cout<<"\n!!Empty Tree!!";
-//	else
-//	{
-//		while(temp!=NULL)
-//		{
-//			
-//		}
-//	}
-//}
 int main()
 {
 	struct node *root;
 	root=NULL;
 	root=create();
-//	display(root);
 }
