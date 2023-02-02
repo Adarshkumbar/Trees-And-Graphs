@@ -4,5 +4,5 @@ Types of Tree DS
 Problems solved on Trees
 
 
-Types of Tree DS 
-Problems solved on Trees
+Types of Graph DS 
+Problems solved on Graphs
