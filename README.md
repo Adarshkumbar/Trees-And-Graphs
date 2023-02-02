@@ -1,4 +1,8 @@
 # Tree
-Tree Data structure using c++
-Types of Tree DS
+Tree and Graph Data structures using c++
+Types of Tree DS 
+Problems solved on Trees
+
+
+Types of Tree DS 
 Problems solved on Trees
